@@ -18,7 +18,7 @@ This assignment demonstrates Oracle Database administration skills including cre
 ---
 
 ## 🗂️ Repository Structure
-oracle-pdb-assignment-27844-Rwabukumba-Yves-Shapu/
+oracle-pdb-assignment-27844-Yves
 │
 ├── README.md                     # This file
 ├── queries/                      # SQL scripts
@@ -51,7 +51,8 @@ Created permanent PDB for class work:
 3. Opened PDB and saved state  
 4. Created user with full privileges  
 
-**Evidence:** See ![Connect as SYSDBA](screenshots/task1_creation/connect_sysdba.png)
+**Evidence:** See <img width="822" height="92" alt="shapu2" src="https://github.com/user-attachments/assets/7e60dbfc-cbc7-4f56-a51c-f7707bbce64b" />
+
 
 
 ---
@@ -70,7 +71,9 @@ Demonstrated PDB lifecycle management:
 5. Dropped PDB with all datafiles  
 6. Verified complete removal  
 
-**Evidence:** See [`queries/task2_delete_pdb.sql`](queries/task2_delete_pdb.sql) and [`screenshots/task2_deletion/`](screenshots/task2_deletion/)
+**Evidence:** See <img width="825" height="833" alt="shapu4" src="https://github.com/user-attachments/assets/84f3de9b-dfd4-4cb1-a196-54d324e5be43" />
+                  <img width="820" height="867" alt="created and droped" src="https://github.com/user-attachments/assets/f60a3c33-884a-479d-8f87-92c34ed559ee" />
+
 
 ---
 
@@ -88,7 +91,9 @@ Configured OEM for database monitoring:
 3. Accessed OEM dashboard  
 4. Verified all PDBs visible  
 
-**Evidence:** See [`queries/task3_oem_setup.sql`](queries/task3_oem_setup.sql) and [`screenshots/task3_oem/`](screenshots/task3_oem/)
+**Evidence:** see <img width="1920" height="906" alt="OEM3" src="https://github.com/user-attachments/assets/31037376-2f48-4b0a-8734-ffcc657a2d52" />
+                  <img width="1919" height="955" alt="OEM2" src="https://github.com/user-attachments/assets/dee56f3b-ce2c-4a8d-8cf7-97498933ab2d" />
+
 
 ---
 
@@ -104,12 +109,12 @@ Configured OEM for database monitoring:
 
 ## 📊 Results Summary
 
-| Task | Description              | Status        | Points |
-|------|--------------------------|---------------|--------|
-| 1    | Create Main PDB          | ✅ Complete   | 2/2    |
-| 2    | Create & Delete PDB      | ✅ Complete   | 2/2    |
-| 3    | Configure OEM            | ✅ Complete   | 1/1    |
-| **Total** |                     | **✅ Complete** | **5/5** |
+| Task | Description              | Status        | 
+|------|--------------------------|---------------|
+| 1    | Create Main PDB          | ✅ Complete   |
+| 2    | Create & Delete PDB      | ✅ Complete   |
+| 3    | Configure OEM            | ✅ Complete   |
+
 
 ---
 
