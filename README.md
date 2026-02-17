@@ -93,6 +93,7 @@ Configured OEM for database monitoring:
 
 **Evidence:** see <img width="1920" height="906" alt="OEM3" src="https://github.com/user-attachments/assets/31037376-2f48-4b0a-8734-ffcc657a2d52" />
                   <img width="1919" height="955" alt="OEM2" src="https://github.com/user-attachments/assets/dee56f3b-ce2c-4a8d-8cf7-97498933ab2d" />
+                  <img width="958" height="454" alt="OEM1" src="https://github.com/user-attachments/assets/b44958cb-af62-4ccb-a6eb-9c11a5a5f97a" />
 
 
 ---
@@ -137,7 +138,7 @@ Configured OEM for database monitoring:
 **Solution:** Used `DATA_PUMP_DIR` from `dba_directories` query
 
 **Challenge 3:** OEM port configuration  
-**Solution:** Set custom ports (8080/8443) and restarted database
+**Solution:** Set custom ports (5500) and restarted database
 
 ---
 
