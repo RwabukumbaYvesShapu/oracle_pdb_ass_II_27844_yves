@@ -36,7 +36,7 @@ text
 
 ##Tasks Completed
 
-### Task 1: Create Main Pluggable Database (2 points)
+### Task 1: Create Main Pluggable Database 
 
 Created permanent PDB for class work:  
 - **PDB Name:** `ry_pdb_27844`  
@@ -53,7 +53,7 @@ Created permanent PDB for class work:
 
 ---
 
-### Task 2: Create and Delete PDB (2 points)
+### Task 2: Create and Delete PDB 
 
 Demonstrated PDB lifecycle management:  
 - **PDB Name:** `ry_to_delete_pdb_27844`  
@@ -69,7 +69,7 @@ Demonstrated PDB lifecycle management:
 
 ---
 
-### Task 3: Oracle Enterprise Manager Setup (1 point)
+### Task 3: Oracle Enterprise Manager Setup 
 
 Configured OEM for database monitoring:  
 - **HTTP Port:** 1521
